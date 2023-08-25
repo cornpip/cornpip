@@ -1,5 +1,4 @@
-<h1 align="center">👋 I'm Choi seon hyo</h1>
-<h3 align="center">a growing developer</h3>
+<h3 align="center">a growing developer :blush:</h3>
 
 > 🔭 22-09-01~22-12-31: ICT internship at nextlab ( Participating in **Intelligent Monkey Test** project )   
 <h3 align="left">Languages and Tools:</h3>
