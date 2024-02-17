@@ -3,18 +3,14 @@
   <a href="https://cornpip.tistory.com/" target="_blank">Click to visit blog</a>
 </h3>
 
-+ __Back-End__  
-Java, Spring, Node.js, NestJS  
++ __Language__  
+C, Java, JS/TS, Python
 
-+ __AI, Data__  
-Python, TensorFlow
++ __Framework__  
+Spring, NestJS, Express, React, Tensorflow
 
 + __Database__  
 MySQL, MongoDB, Redis
 
-+ __Front-End__  
-JS, TS, React
-
 + __Etc__  
-Docker, RaspberryPi, Arduino,
-Linux, AWS
+Docker, AWS, Linux, RaspberryPi, Arduino
