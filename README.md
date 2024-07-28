@@ -6,11 +6,11 @@
   <tr>
     <td>
       <strong>Front-End</strong><br>
-      JS/TS, React
+      JS/TS-React
     </td>
     <td>
       <strong>Back-End</strong><br>
-      Java, Spring, Node.js, NestJS
+      Java-Spring, Node.js-NestJS
     </td>
     <td>
       <strong>Database</strong><br>
@@ -23,8 +23,8 @@
       Python, TensorFlow
     </td>
     <td>
-      <strong>Desktop Application</strong><br>
-      C++, Qt
+      <strong>GUI Application</strong><br>
+      Cpp-Qt, C#-Winform
     </td>
     <td>
       <strong>Etc</strong><br>
