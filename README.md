@@ -11,7 +11,8 @@
 ## Tech Stack
 ### 💻 Back-End
 - **Java (Spring Boot)**, **Node.js (NestJS)** - RESTful API 개발, 비즈니스 로직 구현, 트랜잭션 처리, 아키텍처 설계
-- **WebSocket, Socket, STOMP** – 실시간 통신 및 메시징 구현
+- **Socket, WebSocket, STOMP** – 실시간 통신 및 메시징 구현
+- **JWT, OAuth2, Session** - 인증/인가 및 접근 제어 구현
 - **MySQL, Redis** – 관계형 DB 설계, 인메모리 캐싱 및 세션 관리
 
 ### 🤖 AI & Computer Vision
