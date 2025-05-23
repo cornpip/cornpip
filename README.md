@@ -1,26 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SeonHyo%20Choi%2&desc=I%20enjoy%20embracing%20challenges!&descAlign=70&descAlignY=65&fontSize=60)
 
 ## 🚀 Who Am I?
-- 새로운 도전을 즐기며, 세상에 긍정적인 변화를 만들고자 합니다.  
-- 문제를 명확하게 정의하고, 소프트웨어 엔지니어링을 통해 효과적으로 해결하는 것을 추구합니다.
+I enjoy taking on new challenges and strive to create a positive impact in the world.
 
-## 🔍 Experience
-- 여러 프로젝트에서 다양한 언어와 프레임워크를 활용한 경험으로, **서비스를 설계·개발**할 수 있습니다.  
-- **백엔드**와 **Computer Vision** 분야에 강점을 가지고 있습니다.
+Problem definition isn’t a simple step; it’s a distinct and creative part of engineering.  
+The clarity it brings is the foundation of every solution I build.
 
-## Tech Stack
-### 💻 Back-End
-- **Java (Spring Boot)**, **Node.js (NestJS)** - RESTful API 개발, 비즈니스 로직 구현, 트랜잭션 처리, 아키텍처 설계
-- **Socket, WebSocket, STOMP** – 실시간 통신 및 메시징 구현
-- **JWT, OAuth2, Session** - 인증/인가 및 접근 제어 구현
-- **MySQL, Redis** – 관계형 DB 설계, 인메모리 캐싱 및 세션 관리
+## 💡 What I Do Best
+I'm skilled at designing and building end-to-end services,  
+and I have expertise spanning full-stack development and computer vision.
 
-### 🤖 AI & Computer Vision
-- **Python, TensorFlow** – 데이터 분석 및 딥러닝 모델 개발  
-- 분류(Classification), 세그멘테이션(Segmentation), 객체 탐지(Detection) 모델 개발
-- 서비스 환경에 맞춘 영상/이미지 처리 및 모델 최적화
+## 🎯 Skills
+Fullstack  
+- React: client UI/UX, state management, data visualization  
+- Spring Boot, NestJS: RESTful API, business logic implementation, transaction handling, architecture design  
+- Socket, STOMP: real-time communication and messaging  
+- JWT, OAuth2, Session: authentication, authorization, and access control  
+- MySQL, SQLite: relational database design  
 
-### ☁️ DevOps & Infra
-- **Docker** – 컨테이너 기반 환경 구축
-- **AWS, NCP** – 클라우드 인프라 설계 및 운영
-- **GitHub Actions** - CI/CD 구축 및 자동화
+DevOps
+- Docker: container-based environment setup  
+- AWS, NCP: cloud infrastructure design and management 
+
+AI
+- Python, TensorFlow: data analysis and ML/AI model development  
+- Image processing, model optimization 
+
+App
+- Android Native
+- Flutter
+
+
+## 🤝 Let’s Chat!
+If you'd like to share fun ideas or just chat about projects, please feel free to email me anytime!
