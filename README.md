@@ -7,8 +7,7 @@ Problem definition isn’t a simple step; it’s a distinct and creative part of
 The clarity it brings is the foundation of every solution I build.
 
 ## 💡 What I Do Best
-I'm skilled at designing and building end-to-end services,  
-and I have expertise spanning full-stack development and computer vision.
+I design and build end-to-end services across web, mobile, and AI — turning ideas into real-world products.
 
 ## 🎯 Skills
 Fullstack  
