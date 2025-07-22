@@ -12,14 +12,14 @@ I design and build end-to-end services across web, mobile, and AI(Computer Visio
 
 ## 🎯 Skills
 
-__Fullstack__
+__Fullstack & App__
 - React / Spring Boot / NestJS / MySQL / SQLite
+- Android / Flutter
 
 __AI & Computer Vision__
 - TensorFlow / PyTorch / Model Training & Optimization / Image processing
 
-__App & DevOps__
-- Android / Flutter
+__DevOps__
 - Docker / GitHub Actions / AWS / NCP
 
 ## 🤝 Let’s Chat!
