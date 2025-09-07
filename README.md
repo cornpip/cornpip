@@ -14,3 +14,4 @@ __AI & Computer Vision__
 __Fullstack & App__
 - React / Spring Boot / NestJS / MySQL / SQLite
 - Android / Flutter
+- Docker / GitHub Actions / AWS
