@@ -7,9 +7,9 @@ I design and build end-to-end services across web, mobile, and AI (Computer Visi
 ## 🎯 Skills
 
 __AI & Computer Vision__
-- TensorFlow / PyTorch / Model Training & Optimization
+- TensorFlow / PyTorch / Fine-tuning & Optimization
 - Classification, Segmentation, Detection
-- Image processing
+- Data Pipeline / Augmentation / Image Processing
 
 __Fullstack & App__
 - React / Spring Boot / NestJS / MySQL / SQLite
