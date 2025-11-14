@@ -1,17 +1,18 @@
-## 💡 What I Do Best
+## 😊 About Me
 
-I take on new challenges and focus on creating a positive impact. 
+I want to turn possibilities into reality and create a positive impact on the people around me.  
+With clear goals in the startup ecosystem, I continue moving forward steadily without losing pace.
 
-I design and build end-to-end services across web, mobile, and AI (Computer Vision) — turning ideas into real-world products.
+I am currently focusing on developing Flutter-based AI applications,  
+and I’m capable of building a wide range of applications across app, web, and AI domains.
 
-## 🎯 Skills
+## 🛠️ Skills
+
+__Web & App__
+- React / Spring / Node.js
+- Android / Flutter
 
 __AI & Computer Vision__
 - TensorFlow / PyTorch / Fine-tuning & Optimization
 - Classification, Segmentation, Detection
 - Data Pipeline / Augmentation / Image Processing
-
-__Fullstack & App__
-- React / Spring Boot / NestJS / MySQL / SQLite
-- Android / Flutter
-- Docker / GitHub Actions / AWS
