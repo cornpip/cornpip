@@ -1,18 +1,21 @@
 ## 😊 About Me
 
-I want to turn possibilities into reality and create a positive impact on the people around me.  
-With clear goals in the startup ecosystem, I continue moving forward steadily without losing pace.
+I am an Applied ML Engineer specializing in computer vision,  
+delivering production-ready AI systems and products.
 
-I am currently focusing on developing Flutter-based AI applications,  
-and I’m capable of building a wide range of applications across app, web, and AI domains.
+With a strong startup mindset, I move ideas from experimentation to deployment,  
+creating practical AI solutions with impact.
 
 ## 🛠️ Skills
 
-__Web & App__
-- React / Spring / Node.js
-- Android / Flutter
+__AI/ML & Computer Vision__
+- Classification · Segmentation · Detection
+- Model development with TensorFlow & PyTorch
+- Fine-tuning, data curation, augmentation, and evaluation
+- Model optimization & deployment (TFLite, on-device inference)
+- End-to-end ML pipelines (preprocessing → inference → postprocessing)
+- Image processing & feature extraction
 
-__AI & Computer Vision__
-- TensorFlow / PyTorch / Fine-tuning & Optimization
-- Classification, Segmentation, Detection
-- Data Pipeline / Augmentation / Image Processing
+__Application & Platform__
+- React / Spring / Nest.js
+- Android / Flutter
