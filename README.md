@@ -17,5 +17,5 @@ __AI/ML & Computer Vision__
 - Image processing & feature extraction
 
 __Application & Platform__
-- React / Spring / Nest.js
+- React / Spring / NestJS
 - Android / Flutter
