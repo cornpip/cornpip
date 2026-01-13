@@ -1,21 +1,23 @@
 ## 😊 About Me
 
-I am an Applied ML Engineer specializing in computer vision,  
-delivering production-ready AI systems and products.
+I am an AI/ML Engineer specializing in computer vision.
 
-With a strong startup mindset, I move ideas from experimentation to deployment,  
-creating practical AI solutions with impact.
+I work end-to-end from model development to inference,
+across on-device and production environments.
 
-## 🛠️ Skills
+With a strong startup mindset, I turn experimental ideas into
+practical AI systems with real-world impact.
 
-__AI/ML & Computer Vision__
-- Classification · Segmentation · Detection
-- Model development with TensorFlow & PyTorch
-- Fine-tuning, data curation, augmentation, and evaluation
-- Model optimization & deployment (TFLite, on-device inference)
-- End-to-end ML pipelines (preprocessing → inference → postprocessing)
-- Image processing & feature extraction
+## 🛠 Core Capabilities
+
+__AI & Computer Vision__
+- Image processing and feature extraction
+- Model development, fine-tuning, and evaluation (TensorFlow, PyTorch, data curation & augmentation)
+- Production inference pipelines:  
+  model conversion & optimization (TFLite, on-device inference)  
+  end-to-end execution (pre → inference → post),  
+  designed with performance, consistency, and maintainability in mind
 
 __Application & Platform__
-- React / Spring / NestJS
-- Android / Flutter
+- Mobile: Flutter, Android
+- Web & APIs: React, Spring, NestJS, Node.js
