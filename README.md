@@ -1,2 +1,2 @@
 hello my profile😄  
-https://cornpip.github.io/profile/
+https://cornpip.dev/
